@@ -51,19 +51,18 @@ I enjoy learning how systems work from the inside — whether it’s debugging f
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hyla001/hyla001/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hyla001/hyla001/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hyla001/hyla001/output/pacman-contribution-graph.svg">
-</picture>
 
+###
+
+
+![RIFDAN](pacman.svg)
 ###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
 </div>
 
-###
+
 > “I believe progress comes from curiosity, consistency, and the courage to keep learning.”
 
 
