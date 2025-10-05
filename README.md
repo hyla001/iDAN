@@ -1,6 +1,6 @@
 # 👋 Hallo, I'm Rifdan
 
-![RIFDAN](jpg/pp.jpg)
+![RIFDAN](jpg/bg.png)
 
 I’m an aspiring **Cybersecurity Practitioner** and **Technology Enthusiast** passionate about exploring the intersection of **hardware**, **software**, and **digital security**.  
 I enjoy learning how systems work from the inside — whether it’s debugging firmware, testing software security, or repairing mobile hardware.
